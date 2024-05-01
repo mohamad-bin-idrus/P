@@ -13,17 +13,13 @@ app
       Models
       Providers
 bootstrap
-
 config
-
 database
-
 modules
     factories
     migrations
     seeders
 lang
-
 public
 
 resources

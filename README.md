@@ -7,8 +7,6 @@ Sistem Laporan Kerusakan dibuat menggunakan Framework Laravel.Aplikasi ini mengi
 ``` bash
 
 app
-      console
-      Exceptions
       Http
       Models
       Providers

@@ -7,17 +7,23 @@ Sistem Laporan Kerusakan dibuat menggunakan Framework Laravel.Aplikasi ini mengi
 ``` bash
 
 app
+      console
+      Exceptions
       Http
       Models
       Providers
 bootstrap
+
 config
+
 database
+
 modules
     factories
     migrations
     seeders
 lang
+
 public
 
 resources
@@ -51,18 +57,10 @@ git clone https://github.com/mohamad-bin-idrus/ProjectPPL.git
 
 
 ```
-
+## Project Member
+1. Muhammad Cahyo Nugroho (M0521049)
+2. Muhammad Rais Sidiq (M0521055)
+3. Sitti Ayuningrum Setiyawan (M0521074)
+4. Mohamad Bin Idrus (M0518033)
 
     
-## Credits
-
-- Laravel untuk back end
-- Bootstrap untuk front end
-## Project Team Member
-
-|Bangkit ID|Name|Contact|
-|-----|-----|-----|
-|M0521074|Sitti Ayuningrum Setiyawan|[Github](https://github.com/ningrom) 
-|M0521049|Muhammad Cahyo Nugroho|[Github](https://github.com/cahyoooo) 
-|M0521055|Muhammad Rais Sidiq|[Github](https://github.com/raissidiq16) 
-|M0518033|Mohamad bin Idrus Abdullah|[Github](https://github.com/mohamad-bin-idrus) 
